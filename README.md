@@ -5,3 +5,4 @@
 5.Make sure your runner is configured as Junit on JAVA 14 and has the class name of 'testRunner.Runner'.
 6.Right-Click on the pom.xml file and choose: Maven -> Reload project.
 7.Run the Runner.
+8.Open the target folder, right click on ExtentReport, open with chrome.
